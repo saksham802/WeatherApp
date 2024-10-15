@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string-array name="states">
+        <item>ANDAMAN AND NICOBAR ISLANDS</item>
+        <item>CHANDIGARH</item>
+        <item>DADRA AND NAGAR HAVELI AND DAMAN AND DIU</item>
+        <item>DELHI</item>
+        <item>JAMMU AND KASHMIR</item>
+        <item>LADAKH</item>
+        <item>LAKSHADWEEP</item>
+        <item>PUDUCHERRY</item>
+        <item>ANDHRA PRADESH</item>
+        <item>ARUNACHAL PRADESH</item>
+        <item>ASSAM</item>
+        <item>BIHAR</item>
+        <item>CHHATTISGARH</item>
+        <item>GOA</item>
+        <item>GUJARAT</item>
+        <item>HARYANA</item>
+        <item>HIMACHAL PRADESH</item>
+        <item>JHARKHAND</item>
+        <item>KARNATAKA</item>
+        <item>KERALA</item>
+        <item>MADHYA PRADESH</item>
+        <item>MAHARASHTRA</item>
+        <item>MANIPUR</item>
+        <item>MEGHALAYA</item>
+        <item>MIZORAM</item>
+        <item>NAGALAND</item>
+        <item>ODISHA</item>
+        <item>PUNJAB</item>
+        <item>RAJASTHAN</item>
+        <item>SIKKIM</item>
+        <item>TAMIL NADU</item>
+        <item>TELANGANA</item>
+        <item>TRIPURA</item>
+        <item>UTTAR PRADESH</item>
+        <item>UTTARAKHAND</item>
+        <item>WEST BENGAL</item>
+    </string-array>
+
+</resources>
